@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi, I'm NOA LIGPITAN, an organized and professional freelance programmer passionate about building efficient and innovative solutions. With a strong background in web and software development, I specialize in creating modern applications that are both user-friendly and performance-driven.
+## Hi, I'm NOA LIGPITAN, an organized and professional freelance programmer passionate about building efficient and innovative solutions. With a strong background in web and software development, I specialize in creating modern applications that are both user-friendly and performance-driven.
 
-I thrive on problem-solving and continuously improving my skills to deliver high-quality results. Whether it's frontend or backend development, I focus on writing clean, maintainable code that meets the needs of my clients.
+### I thrive on problem-solving and continuously improving my skills to deliver high-quality results. Whether it's frontend or backend development, I focus on writing clean, maintainable code that meets the needs of my clients.
 
 Let’s connect and bring your ideas to life!
 
