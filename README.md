@@ -22,7 +22,7 @@ I specialize in **modern web and mobile applications** that are user-friendly an
 
 ## 💻 Tech Stack
 <p align="center">
-  <!-- Frontend -->
+  <!-- Core -->
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,php,mysql,mongodb,sqlite,nodejs" /><br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,docker,git,github,photoshop,canva" />
@@ -76,7 +76,3 @@ I specialize in **modern web and mobile applications** that are user-friendly an
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Noah202226&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </p>
-
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
