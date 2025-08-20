@@ -1,34 +1,82 @@
-# 💫 About Me:
-## Hi, I'm NOA LIGPITAN, an organized and professional software developer that passionate about building efficient and innovative solutions. With a strong background in web and software development, I specialize in creating modern applications that are both user-friendly and performance-driven.
+<!-- Profile Header with Animation -->
+<h1 align="center">Hi 👋, I'm Noa Ligpitan</h1>
+<h3 align="center">💻 Software Developer | Problem Solver | Builder of Modern Apps</h3>
 
-### I thrive on problem-solving and continuously improving my skills to deliver high-quality results. Whether it's frontend or backend development, I focus on writing clean, maintainable code that meets the needs of my clients.
-
-## Let’s connect and bring your ideas to life!
-
-[My personal website portfolio](https://noaligpitan.site)
-
-# 💻 Tech Stack:
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Noah202226&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Noah202226&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah202226&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/NoaArc26/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutube.com%2F%2540devBrosPh%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR2EI7c_AP2AT7UMBxxY2b3LojbC8iw53ZM9XcZkomgD2sLpNUb5w1-48hY_aem_gHT91JD8M5N8w5VUEWUZIQ&h=AT0kA528ZFaTyGs7nu5068VhKaEvkA_SjJOKyFBweujItzrHBtgVVMRD8WwFCgka5tMqG9n3AU9E0AjG_OsX19AZ7C5VyEX79859msTlOYaOkNsa-RO7o4uWyG-91MlUEcOI) 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Noah202226&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C7B7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Web+%26+Mobile+Developer;Open+Source+Contributor;Always+Learning+%F0%9F%92%AA" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Noah202226&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/noaligpita3                ) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/ProfX26) 
+## 🚀 About Me
+I'm an **organized and professional software developer** passionate about building efficient and innovative solutions.  
+I specialize in **modern web and mobile applications** that are user-friendly and performance-driven.  
+
+✨ I thrive on problem-solving and continuous improvement.  
+🛠 I love writing clean, maintainable code that scales.  
+🤝 Let’s connect and bring your ideas to life!  
+
+🌐 [**Visit My Portfolio →**](https://noaligpitan.site)
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,php,mysql,mongodb,sqlite,nodejs" /><br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,docker,git,github,photoshop,canva" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noah202226&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Noah202226&theme=radical&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah202226&layout=compact&theme=radical&hide_border=true" height="150" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://facebook.com/NoaArc26"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+  <a href="https://youtube.com/@devBrosPh"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
+  <a href="https://noaligpitan.site"><img src="https://skillicons.dev/icons?i=wordpress" height="40"/></a>
+</p>
+
+---
+
+## 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Noah202226&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 💰 Support My Work
+<p align="center">
+  <a href="https://buymeacoffee.com/noaligpita3"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"></a>
+  <a href="https://paypal.me/ProfX26"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Noah202226&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</p>
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
