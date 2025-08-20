@@ -22,7 +22,7 @@ I specialize in **modern web and mobile applications** that are user-friendly an
 
 ## 💻 Tech Stack
 <p align="center">
-  <!-- Core -->
+  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,php,mysql,mongodb,sqlite,nodejs" /><br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,docker,git,github,photoshop,canva" />
@@ -32,12 +32,15 @@ I specialize in **modern web and mobile applications** that are user-friendly an
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noah202226&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=Noah202226&theme=radical&hide_border=true" height="180" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Noah202226&show_icons=true&theme=radical&count_private=true" height="180"/>
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com/?user=Noah202226&theme=radical&hide_border=true" height="180"/>
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah202226&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah202226&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -65,6 +68,13 @@ I specialize in **modern web and mobile applications** that are user-friendly an
 
 ---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noah202226&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
 ## 💰 Support My Work
 <p align="center">
   <a href="https://buymeacoffee.com/noaligpita3"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"></a>
@@ -76,3 +86,7 @@ I specialize in **modern web and mobile applications** that are user-friendly an
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Noah202226&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </p>
+
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
