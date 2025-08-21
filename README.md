@@ -77,7 +77,7 @@ I specialize in **modern web and mobile applications** that are user-friendly an
 
 ## 💰 Support My Work
 <p align="center">
-  <a href="https://buymeacoffee.com/noaligpita3"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"></a>
+  <a href="https://ko-fi.com/noaligpitan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"></a>
   <a href="https://paypal.me/ProfX26"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
 </p>
 
