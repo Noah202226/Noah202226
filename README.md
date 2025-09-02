@@ -30,23 +30,6 @@ I specialize in **modern web and mobile applications** that are user-friendly an
 
 ---
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah202226&layout=compact&theme=radical&hide_border=true" height="150"/>
-</p>
-
----
-
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://facebook.com/NoaArc26"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-  <a href="https://youtube.com/@devBrosPh"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
-  <a href="https://noaligpitan.site"><img src="https://skillicons.dev/icons?i=wordpress" height="40"/></a>
-</p>
-
----
-
 ## 💰 Support My Work
 <p align="center">
   <a href="https://ko-fi.com/noaligpitan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"></a>
