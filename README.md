@@ -30,14 +30,6 @@ I specialize in **modern web and mobile applications** that are user-friendly an
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Noah202226&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com/?user=Noah202226&theme=radical&hide_border=true" height="180"/>
-</p>
-
 <!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah202226&layout=compact&theme=radical&hide_border=true" height="150"/>
@@ -45,32 +37,12 @@ I specialize in **modern web and mobile applications** that are user-friendly an
 
 ---
 
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://facebook.com/NoaArc26"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
   <a href="https://youtube.com/@devBrosPh"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
   <a href="https://noaligpitan.site"><img src="https://skillicons.dev/icons?i=wordpress" height="40"/></a>
-</p>
-
----
-
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Noah202226&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noah202226&theme=react-dark&hide_border=true" />
 </p>
 
 ---
