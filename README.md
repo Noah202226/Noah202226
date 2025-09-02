@@ -37,11 +37,3 @@ I specialize in **modern web and mobile applications** that are user-friendly an
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Noah202226&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</p>
-
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
