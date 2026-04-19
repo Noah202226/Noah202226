@@ -16,7 +16,7 @@ I specialize in **modern web and mobile applications** that are user-friendly an
 🛠 I love writing clean, maintainable code that scales.  
 🤝 Let’s connect and bring your ideas to life!  
 
-🌐 [**Visit My Portfolio →**](https://noaligpitan.site)
+🌐 [**Visit My Portfolio →**]([https://noaligpitan.site](https://noaligpitan-26.vercel.app/))
 
 ---
 
